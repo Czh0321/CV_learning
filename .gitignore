@@ -1,0 +1,31 @@
+# 数据集
+data/
+*.pkl
+*.pickle
+
+# 模型权重
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
+
+# 系统
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# 日志
+logs/
+
+# Codely
+.codely/
+.codely-cli/
