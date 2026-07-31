@@ -1,0 +1,14 @@
+Transformer 机器翻译项目
+========================
+
+环境要求：
+- Python 3.8+
+- PyTorch 1.10+
+- sentencepiece
+
+版本记录：
+v1.0  - 初始版本
+       - SentencePiece BPE 分词器构建
+       - 完整 Transformer 模型实现（编码器 + 解码器）
+       - 训练脚本 + 验证集评估
+       - Beam Search 推理 + 交互式翻译
